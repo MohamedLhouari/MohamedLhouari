@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-I am ✨ **Mohamed AIT LHOUARI** ✨, an engineering student at Centrale, currently in my 7th semester, specializing in **Data Science and Digitalization**. My career goal is to combine strong technical skills in **MLOps** and **Data Engineering** with business expertise in **Quantitative Finance** and **Risk Management**.
+I am  **Mohamed AIT LHOUARI** , an engineering student at Centrale Supelec, currently in my 8th semester, specializing in **Data Science and Digitalization**. My career goal is to combine strong technical skills in **MLOps** and **Data Engineering** with business expertise in **Quantitative Finance** and **Risk Management**.
 
 I am actively preparing for my professional gap year in 2026, focusing on:
-* **Internship 1 (Jan-Jun 2026)**: Missions in ML Engineering / Data Engineering to build robust data pipelines.
-* **Internship 2 (Sep 2026-Mar 2027)**: Applying Data Science to the fields of Risk or Quantitative Finance.
+* **Internship 1 (jul-dec 2026)**: Missions in ML Engineering / Data Engineering to build robust data pipelines.
+* **Internship 2 (feb-jul 2027)**: Applying Data Science to the fields of Risk or Quantitative Finance.
 
 I am passionate about solving complex problems through data exploitation and modeling (XGBoost, LightGBM, Deep Learning). I am proficient in Python, SQL, and various data visualization tools, and I'm always eager to learn and explore the latest trends in data science and machine learning. Let's connect and explore the fascinating world of data together!
 
