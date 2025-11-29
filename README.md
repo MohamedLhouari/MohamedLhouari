@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, there! It's Mohamed AIT LHOUARI 👋
 
 ## 🚀 About Me
